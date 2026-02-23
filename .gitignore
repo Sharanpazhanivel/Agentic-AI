@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.env.*
+*.db
+*.db-journal
+pytest-cache-files-*/
